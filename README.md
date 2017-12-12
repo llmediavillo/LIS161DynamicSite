@@ -4,7 +4,9 @@ PROJECT TITLE: Student Registration System
 INTRODUCTION: An website repository for storing student information and profiles.
 
 DEVELOPER: Lormaine Mediavillo
+
 Contact Info:
+
 E-mail: lormaine.mediavillo@gmail.com
 
 INTENDED USER/CLIENT: User with admin credentials and privileges granted by the developer.
